@@ -7,7 +7,7 @@ In the meantime, contains the project's existing agreed-upon governance document
 These include:
 
 * [Spyder Code of Conduct](https://github.com/spyder-ide/governance-and-guidelines/blob/main/CODE_OF_CONDUCT.md)
-* Reviewer Guidelines
+* [Reviewer Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/REVIEW.md)
 * Spyder project license (MIT)
 * Standard license headers
 
