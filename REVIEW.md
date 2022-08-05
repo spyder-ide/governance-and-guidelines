@@ -39,7 +39,7 @@ With that in mind, this is a process that can benefit from having a clear set of
 
 All reviewers are expected to follow these guidelines and labels in their review.
 If a reviewer forgets, they may be reminded.
-If a reviewer refuses, they will be contacted about a violation of [Spyder’s Code of Conduct](https://github.com/spyder-ide/spyder/blob/master/CODE_OF_CONDUCT.md) under `Giving and gracefully accepting constructive feedback`.
+If a reviewer refuses, they will be contacted about a violation of [Spyder’s Code of Conduct](https://github.com/spyder-ide/governance-and-guidelines/blob/main/CODE_OF_CONDUCT.md) under `Giving and gracefully accepting constructive feedback`.
 As with all aspects of the Code of Conduct, this applies to everyone involved in the discussion (including members of the Spyder organization on GitHub).
 
 Other notes:
@@ -48,11 +48,11 @@ Other notes:
 - Whenever practical, reviewers should add comments asking for a specific change as [GitHub suggestions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#adding-line-comments-to-a-pull-request).
 - If after discussion, an author and a reviewer still don't agree on a change and can't come up with a solution that addresses the concerns of both parties, another maintainer of the repository in question (or if not available, another Spyder core developer) should be pinged to give a second opinion and mediate the disagreement.
 
-Reviewers may give context for the review to make sure the PR author is familiar with the style and this guide. 
+Reviewers may give context for the review to make sure the PR author is familiar with the style and this guide.
 
 For example,
 
-> In Spyder projects, we review pull requests by labeling which feedback needs to be addressed versus which feedback is optional. For more information, refer to the [Review Guidelines](https://github.com/spyder-ide/spyder/blob/master/REVIEW.md).
+> In Spyder projects, we review pull requests by labeling which feedback needs to be addressed versus which feedback is optional. For more information, refer to the [Review Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/REVIEW.md).
 - If after discussion, an author and a reviewer still don't agree on a change and can't come up with a solution that addresses the concerns of both parties, another maintainer of the repository in question (or if not available, another Spyder core developer) should be pinged to give a second opinion and mediate the disagreement.
 
 ## Reviewing process
