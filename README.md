@@ -8,8 +8,7 @@ These include:
 
 * [Spyder Code of Conduct](https://github.com/spyder-ide/governance-and-guidelines/blob/main/CODE_OF_CONDUCT.md)
 * [Reviewer Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/REVIEW.md)
-* Spyder project license (MIT)
-* Standard license headers
+* [Project License Policy](https://github.com/spyder-ide/governance-and-guidelines/blob/main/LICENSE_POLICY.md)
 
 The documents to be drafted, discussed, agreed and voted upon in the near future are:
 
