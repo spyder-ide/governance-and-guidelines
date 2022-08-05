@@ -9,6 +9,7 @@ These include:
 * [Spyder Code of Conduct](https://github.com/spyder-ide/governance-and-guidelines/blob/main/CODE_OF_CONDUCT.md)
 * [Reviewer Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/REVIEW.md)
 * [Project License Policy](https://github.com/spyder-ide/governance-and-guidelines/blob/main/LICENSE_POLICY.md)
+* [Third Party Code (NOTICE) Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/NOTICE_GUIDELINES.md)
 
 The documents to be drafted, discussed, agreed and voted upon in the near future are:
 
