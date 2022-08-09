@@ -6,10 +6,10 @@ We aim to codify a formal community governance structure in the near future, whi
 In the meantime, contains the project's existing agreed-upon governance documents.
 These include:
 
-* [Spyder Code of Conduct](https://github.com/spyder-ide/governance-and-guidelines/blob/main/CODE_OF_CONDUCT.md)
-* [Reviewer Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/REVIEW.md)
-* [Project License Policy](https://github.com/spyder-ide/governance-and-guidelines/blob/main/LICENSE_POLICY.md)
-* [Third Party Code (NOTICE) Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/NOTICE_GUIDELINES.md)
+* [Spyder Code of Conduct](https://github.com/spyder-ide/governance-and-guidelines/blob/main/code_of_conduct.md)
+* [Review Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/review_guidelines.md)
+* [Project License Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/license_guidelines.md)
+* [Third Party Code (NOTICE) Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/third_party_code.md)
 
 The documents to be drafted, discussed, agreed and voted upon in the near future are:
 

@@ -1,4 +1,4 @@
-# Project License Information
+# Project License Guidelines
 
 ## License
 

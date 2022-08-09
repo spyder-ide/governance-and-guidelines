@@ -35,7 +35,7 @@ Regardless, all such licenses must be OSI, FSF, and DSFG approved, GPLv3-compati
 
 2. Add the files, preserving any original copyright/legal/attribution headers.
 
-3. If making non-trivial modifications, copy the standard Spyder copyright header from the [License Policy](https://github.com/spyder-ide/governance-and-guidelines/blob/main/LICENSE_POLICY.md) to just below the original headers; if the original headers are unformatted and just consist of a copyright statement and perhaps mention of the license, incorporate them verbatim within the Spyder header where appropriate. Always ensure copyright statements are in ascending chronological order, and replace the year in the Spyder copyright statement with the current one. Modify the license location to be the current directory, or `NOTICE.txt`.
+3. If making non-trivial modifications, copy the standard Spyder copyright header from the [License Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/license_guidelines.md) to just below the original headers; if the original headers are unformatted and just consist of a copyright statement and perhaps mention of the license, incorporate them verbatim within the Spyder header where appropriate. Always ensure copyright statements are in ascending chronological order, and replace the year in the Spyder copyright statement with the current one. Modify the license location to be the current directory, or `NOTICE.txt`.
 
 4. Include the following line at the end of each module's docstring, separated by blank lines:
 
