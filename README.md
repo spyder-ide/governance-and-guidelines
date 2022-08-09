@@ -9,10 +9,7 @@ These include:
 * [Review Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/review_guidelines.md)
 * [Project License Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/license_guidelines.md)
 * [Third Party Code (NOTICE) Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/third_party_code.md)
-
-The documents to be drafted, discussed, agreed and voted upon in the near future are:
-
-* People list (leaders, core developers, sponsors, etc)
+* [People List](https://github.com/spyder-ide/governance-and-guidelines/blob/main/people.md)
 
 
 ## License of this repository
