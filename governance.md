@@ -11,7 +11,7 @@ It was originally based on the [Pandas Main Governance Document](https://github.
 The Spyder Project (the Project) is an open source software project affiliated with the 501(c)3 NumFOCUS Foundation.
 The goal of the Project is to develop graphical applications, libraries and utilities for scientific computing, data exploration/analysis/visualization, and research software development for the Python programming language.
 The software developed by the Project (the Project Software) is released under the [MIT](https://opensource.org/licenses/MIT) (or similar) open source license, developed openly and hosted in public GitHub repositories under the [Spyder-IDE GitHub Organization](https://github.com/spyder-ide).
-Examples of Project Software include the main [Spyder](https://github.com/spyder-ide/spyder) scientific Python development environment, the [Spyder-Kernels](https://github.com/spyder-ide/spyder-kernels) support package, the [QtPy](https://github.com/spyder-ide/spyder) Qt abstraction layer, and the [Spyder-Docs](https://github.com/spyder-ide/spyder-docs) documentation.
+Examples of Project Software include the main [Spyder](https://github.com/spyder-ide/spyder) scientific Python development environment, the [Spyder-Kernels](https://github.com/spyder-ide/spyder-kernels) support package, the [QtPy](https://github.com/spyder-ide/qtpy) Qt abstraction layer, and the [Spyder-Docs](https://github.com/spyder-ide/spyder-docs) documentation.
 
 The Project is developed by a global collective of distributed developers, called Contributors.
 Contributors are individuals who have contributed code, documentation, designs or other work to one or more Project repositories.
@@ -43,7 +43,7 @@ The foundations of Project governance are:
 * Institutional Neutrality
 
 Traditionally, Project leadership has been provided by a Lead Maintainer (Carlos Cordoba, and previously Spyder creator Pierre Raybaut) and a subset of Contributors, called the Spyder Core Developers, whose active and consistent contributions to the Project have been recognized by their being added to the Core Developers GitHub Team, which grants the Write role on the primary Project GitHub repository.
-In general, all Project decisions are made through consensus among the Core Developers with input from the Community.
+In general, all Project decisions are made through consensus among the Core Developers with input from the rest of the Community.
 The Lead Maintainer can, but should rarely need to, make a final decision on a matter when there is not a clear consensus among the Core Developers.
 
 While this informal approach has served the Project well, as the Project grows and faces more legal and financial decisions and interacts with other institutions, there is a need for a more formal governance model.
@@ -177,9 +177,9 @@ Additionally, the Junior Developers Team is reserved for Organization Members wh
 
 ## Transparency
 
-Unless specifically required, all Core Developer and Organization discussions and activities should be public and done in collaboration and discussion with the Project Contributors and Community.
+Unless specifically required, all Core Developer and Organization discussions and activities should be public and done in collaboration and discussion with the Project Contributors and Community in general.
 The Core Developers will have a private Gitter channel that will be used sparingly when a specific matter requires privacy.
-When private communications and decisions are needed, the Core Developers will do its best to summarize those to the Community after eliding personal/private/sensitive information that should not be posted to the public internet.
+When private communications and decisions are needed, the Core Developers will do its best to summarize those to the rest of the Community after eliding personal/private/sensitive information that should not be posted to the public internet.
 
 
 
