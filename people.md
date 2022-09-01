@@ -40,7 +40,7 @@ Daniel Althviz Moré ([@dalthviz](https://github.com/dalthviz)) is the current d
 * Carlos Cordoba ([@ccordoba12](https://github.com/ccordoba12))
 * C.A.M. Gerlach ([@CAM-Gerlach](https://github.com/CAM-Gerlach))
 * Daniel Althviz Moré ([@dalthviz](https://github.com/dalthviz))
-* Quentin Peter ([@impact27](https://github.com/impact27))
+* Jitse Niesen ([@jitseniesen](https://github.com/jitseniesen))
 * Ryan Clary ([@mrclary](https://github.com/mrclary))
 
 
