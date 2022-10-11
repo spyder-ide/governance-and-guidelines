@@ -141,14 +141,14 @@ Otherwise, they retain the same rights and privileges as other Contributors, inc
 
 ### Repository Collaborators
 
-Per-repository Collaborators are Contributors who, thanks to their record of contributions to a specific repository, to further deeper collaboration, or a specific need for their expertise, are given a Role on a particular Spyder-IDE Organization repository.
+Per-repository Collaborators are Contributors who, thanks to their record of contributions to a specific repository, to further deepen collaboration, or a specific need for their expertise, are given a Role on a particular Spyder-IDE Organization repository.
 They can be added at the discretion of the Core Developer maintainers of the other repositories under the Spyder organization (aside from `spyder`/`spyder-kernels`), with the consent of the Spyder Lead Maintainer.
 They may be granted any Role up to Write, or Maintain in special circumstances, for the duration of their collaboration.
 
 
 ## Teams
 
-This section concerns the various Teams that may be established of Core Developers and other Organization Members, both those for the purposes of governance, and those for coordination and specialization within the Organization.
+This section concerns the various Teams, comprised of Core Developers and other Organization Members, for the purposes of governance and for coordination and specialization within the Organization.
 
 
 ### NumFOCUS Representatives
