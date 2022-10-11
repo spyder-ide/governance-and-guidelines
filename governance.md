@@ -21,7 +21,7 @@ Contributors participate in the project by submitting, reviewing and discussing 
 The foundation of Project participation is openness and transparency.
 A list of all Contributors can be found on the "Contributors" page of each individual Project repository, such as the [one for the main Spyder repository](https://github.com/spyder-ide/spyder/graphs/contributors).
 
-Contributors with a sustained, formal relationship of the project are added as Organization Members, part of the Spyder-IDE Organization.
+Contributors with a sustained, formal relationship to the project are added as Organization Members, part of the Spyder-IDE Organization.
 They are added to one or more Teams within the Organization, based on their interests, expertise and experience with—as well as the needs of—the Project.
 
 The Project Community consists of all Contributors and Users of the Project.
@@ -86,7 +86,7 @@ The Core Developers will be initially formed from the set of existing Contributo
 
 When considering potential new members, the Core Developers will look at candidates with a comprehensive view of their contributions.
 This will include but is not limited to code, code review, infrastructure work, participation in communications channels, community help/building, education and outreach, design work, etc.
-The Project want to encourage a diverse array of backgrounds, viewpoints and talents on the Core Developer team, which is why code is not defined as the sole metric on which Core Developers membership will be evaluated.
+The Project wants to encourage a diverse array of backgrounds, viewpoints and talents on the Core Developer team, which is why code is not defined as the sole metric on which Core Developers membership will be evaluated.
 
 If a Core Developer falls well below the threshold of activity over a period of one year that would qualify a candidate to be considered for Core Developer membership, they will be considered inactive.
 The inactive Core Developer will then be approached by the Lead Maintainer to see if they plan on returning to active participation.
@@ -95,7 +95,7 @@ If they plan on returning to active participation soon, they will be given a gra
 If they do not do so after that time, they will be removed after a majority vote by the active Core Developers.
 
 Upon removal, such Core Developers will remain members of the Spyder-IDE organization, and be removed from any Teams they may be members of and added to the Former Developers Team.
-Retired Core Developers members will be also included on the People list, acknowledging the period during which they were active in the Core Developers.
+Retired Core Developers members will be also included on the People list, acknowledging the period during which they were active in the Core Developers Team.
 All former Core Developers can be considered for membership again at any time in the future, like any other Project Contributor.
 
 The Core Developers reserves the right to eject current Core Developers, if they are deemed to be actively harmful to the project's well-being, and all attempts at communication and conflict resolution have failed.
@@ -124,7 +124,7 @@ To ensure stability for the project, no Organization Owner may add or remove ano
 * If a new Lead Maintainer or designated successor is successfully confirmed by vote, they are added as a new Organization Owner.
 * If one of the individuals whose position grants them the role of Organization Owner is recalled or voluntarily retires from their respective position, they are obligated to immediately remove themselves, or be removed, from this role.
 * If a vote is called on the removal of an Organization Owner or a recall of a Organization Member whose position grants them this privilege, upon concurrence of two of the three Organization Owners, the Member shall temporarily be removed for the duration of the vote or two weeks, whichever is less, and then restored unless a two thirds majority is reached.
-* If an Owner or their account are believed to physically or mentally compromised, either on their request or with the concurrence of the other two Owners, they may be temporarily removed for a period of up to two weeks and then restored, unless two thirds of the remaining active Core Developers vote for their permanent removal.
+* If an Owner or their account are believed to be physically or mentally compromised, either on their request or with the concurrence of the other two Owners, they may be temporarily removed for a period of up to two weeks and then restored, unless two thirds of the remaining active Core Developers vote for their permanent removal.
 * During any period for which there are fewer than three individuals holding the role of Organization Owner, the Governance and Guidelines repository maintainer shall be appointed a temporary, acting Organization Owner for the specific purposes of facilitating the transition, reducing bus factor, maintaining a quorum and mediating any disagreements between the remaining Owners; and will be immediately removed upon confirmation of a new Owner.
 
 Additionally, Organization Owners have by default the "Admin" role on all Spyder-IDE Organization repositories, including `spyder` and `spyder-kernels`.
@@ -133,9 +133,9 @@ For security reasons, these should be the only individuals with the "Admin" role
 
 ### Organization Members
 
-Organization Members are Contributors who, due to a reasonable and appropriate need (such having a formal relationship with the Spyder Project, or being considered or mentored for eventual nomination as a Core Developer), are added as Members of the Spyder-IDE Organization.
+Organization Members are Contributors who, due to a reasonable and appropriate need (such as having a formal relationship with the Spyder Project, or being considered or mentored for eventual nomination as a Core Developer), are added as Members of the Spyder-IDE Organization.
 Such Organization Members (other than Core Developers) are added by the Lead Maintainer, with the advice and consent of the Core Developers.
-They may be granted permissions of "Triage" or lower on the `spyder` or `spyder-kernels` repositories, or "Maintain" or lower on any other repository, and be added to any Team with the same.
+They may be granted permissions of "Triage" or lower on the `spyder` or `spyder-kernels` repositories, or "Maintain" or lower on any other repository, and be added to any Team with the same permissions.
 Otherwise, they retain the same rights and privileges as other Contributors, including the possibility of earning membership in the Core Developers through their sustained contributions to the Project.
 
 
@@ -178,7 +178,7 @@ Additionally, the Junior Developers Team is reserved for Organization Members wh
 ## Transparency
 
 Unless specifically required, all Core Developer and Organization discussions and activities should be public and done in collaboration and discussion with the Project Contributors and Community in general.
-The Core Developers will have a private Gitter channel that will be used sparingly when a specific matter requires privacy.
+The Core Developers will have a private Discord channel that will be used sparingly when a specific matter requires privacy.
 When private communications and decisions are needed, the Core Developers will do its best to summarize those to the rest of the Community after eliding personal/private/sensitive information that should not be posted to the public internet.
 
 
@@ -236,7 +236,7 @@ An institution funding at least one Spyder Contributor.
 
 ## Breach
 
-Non-conformance with the terms of the governance documents shall be reported to the Core Developers, either through public (issue on the Governance and Guidelines repository) or private (Core Developer Gitter) channels as deemed appropriate.
+Non-conformance with the terms of the governance documents shall be reported to the Core Developers, either through public (issue on the Governance and Guidelines repository) or private (Core Developer Discord) channels as deemed appropriate.
 All members of the Community may report such issues, and each will be suitably investigated.
 The Governance and Guidelines repository maintainer is the nominal point of contact, and has the particular responsibility to ensure any issues are investigated, both independently and those brought to their attention, and report them to the Lead Maintainer and Core Developers.
 Any necessary corrective action will be discussed and collectively decided upon by the Core Developers, and implemented by the Lead Maintainer.

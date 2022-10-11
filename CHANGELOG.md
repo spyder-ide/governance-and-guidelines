@@ -3,7 +3,7 @@
 All substantive changes to the normative governance, guideline and policy documents will be documented here.
 
 
-## 2022-08-11
+## 2022-10-13
 
 * Add [Project Governance Document](https://github.com/spyder-ide/governance-and-guidelines/blob/main/governance.md)
 * Add [People List](https://github.com/spyder-ide/governance-and-guidelines/blob/main/people.md)
