@@ -3,6 +3,7 @@
 ## Spyder Creator
 
 Pierre Raybaut ([@PierreRaybaut](https://github.com/PierreRaybaut)) is the original creator of Spyder.
+He was the sole developer of Spyder from its very beginning (project was named "Pydee" between January and August 2009) until September 2010, when other people started to contribute.
 While he has since passed on the mantle of Lead Maintainer-ship and retired as a day-to-day active Spyder Core Developer, he still retains his role as one of the Organization Owners.
 
 
