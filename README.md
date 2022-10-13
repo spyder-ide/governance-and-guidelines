@@ -1,20 +1,15 @@
 # Spyder Governance and Guidelines
 
-This repository contains the governance documents and formal guidelines for the Spyder project as a whole.
+This repository contains the canonical governance documents and formal guidelines for the Spyder project as a whole.
 
-We aim to codify a formal community governance structure in the near future, which will be documented here.
-In the meantime, contains the project's existing agreed-upon governance documents.
 These include:
 
+* [Project Governance Document](https://github.com/spyder-ide/governance-and-guidelines/blob/main/governance.md)
 * [Spyder Code of Conduct](https://github.com/spyder-ide/governance-and-guidelines/blob/main/code_of_conduct.md)
 * [Review Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/review_guidelines.md)
 * [Project License Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/license_guidelines.md)
 * [Third Party Code (NOTICE) Guidelines](https://github.com/spyder-ide/governance-and-guidelines/blob/main/third_party_code.md)
-
-The documents to be drafted, discussed, agreed and voted upon in the near future are:
-
-* Project Governance document
-* People list (leaders, core developers, sponsors, etc)
+* [People List](https://github.com/spyder-ide/governance-and-guidelines/blob/main/people.md)
 
 
 ## License of this repository

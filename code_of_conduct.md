@@ -60,8 +60,9 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[ccordoba12@gmail.com](mailto:ccordoba12@gmail.com) or
-[d.althviz10@uniandes.edu.co](mailto:d.althviz10@uniandes.edu.co).
+[ccordoba12@gmail.com](mailto:ccordoba12@gmail.com),
+[d.althviz10@uniandes.edu.co](mailto:d.althviz10@uniandes.edu.co)
+or [CAM.Gerlach@Gerlach.CAM](mailto:CAM.Gerlach@Gerlach.CAM).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
